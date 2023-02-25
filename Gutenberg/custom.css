@@ -1,0 +1,24 @@
+body{
+    background: #BAA393;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-size: 24px;
+    text-decoration: dotted !important;
+    margin-top:1em;
+
+}
+
+p{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+img{
+    border-radius: 8px;
+    filter: grayscale(100%);
+    mix-blend-mode:color-burn;
+}
+
+
+
