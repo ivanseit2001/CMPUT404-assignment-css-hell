@@ -1,0 +1,81 @@
+html {
+    background-color: #adad98;
+    font-family:'Times New Roman', Times, serif;
+    color: #3e3946;
+    font-size: 22px;
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+    margin:auto;
+    max-width: 1300px
+}
+.banner {
+    display: block;
+    background: #b4bb57;
+    width: 100%;
+    height: 150px;
+    margin: 0;
+    padding: 30px 0px;
+    color: #000000;
+    text-align: center;
+    font-size: 75px;
+}
+li {
+    display: inline-block;
+    padding: 15px 20px;
+}
+.about-me-side{
+    float: right;
+    margin-right: 10px;
+    margin-top: 0px;
+    height: 620px;
+    width: 400px;
+    background-color: #b3be1f4f;
+    border-radius: 0px;
+    box-shadow: 0px 0px 5px 5px #4c5501;
+}
+.Description {
+    padding: 0px 10px;
+    border-bottom: 1px solid rgba(131, 145, 6, 0.6);
+}
+.Work-Experience{
+    padding: 0px 10px;
+    border-bottom: 1px solid rgba(131, 145, 6, 0.6);
+}
+.Programming{
+    padding: 0px 10px;
+    border-bottom: 1px solid rgba(131, 145, 6, 0.6);
+}
+ul {
+    /*position: relative;*/
+    list-style-type: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color:#f3ef097a;
+}
+
+
+h2 {
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+h3{
+    font-size:1.2em
+    
+}
+p{
+    text-indent:0%;
+    padding-top: 0px;
+}
+
+img{
+    display:inline-block;
+    height:300px;
+    width:100%;
+    margin-top:0px;
+    margin-left: auto;
+    margin-right: auto;
+    position: top;
+}
